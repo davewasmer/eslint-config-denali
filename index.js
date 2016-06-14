@@ -1,5 +1,17 @@
 module.exports = {
 
+  parser: 'babel-eslint',
+
+  parserOptions: {
+    ecmaVersion: 7,
+    sourceType: 'module'
+  },
+
+  env: {
+    node: true,
+    es6: true
+  },
+
   rules: {
 
     // Possible Errors
