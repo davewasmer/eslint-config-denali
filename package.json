@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-denali",
+  "version": "1.0.0",
+  "description": "eslint configuration for the denali code style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davewasmer/eslint-config-denali.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "denali"
+  ],
+  "author": "Dave Wasmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davewasmer/eslint-config-denali/issues"
+  },
+  "homepage": "https://github.com/davewasmer/eslint-config-denali#readme"
+}
