@@ -4,6 +4,7 @@ module.exports = {
     mocha: true
   },
   rules: {
-    'prefer-arrow-callback': [ 'off' ]
+    'prefer-arrow-callback': [ 'off' ],
+    'no-invalid-this': [ 'off' ]
   }
 };

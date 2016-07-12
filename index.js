@@ -43,11 +43,6 @@ module.exports = {
     'no-unreachable': [ 'error' ],
     'no-unsafe-finally': [ 'error' ],
     'use-isnan': [ 'error' ],
-    'valid-jsdoc': [ 'error', {
-      requireReturn: false,
-      requireParamDescription: false,
-      requireReturnDescription: false
-    }],
     'valid-typeof': [ 'error' ],
 
     // Best Practices
@@ -172,7 +167,6 @@ module.exports = {
     'operator-linebreak': [ 'error' ],
     'quote-props': [ 'error', 'as-needed' ],
     'quotes': [ 'error', 'single', { avoidEscape: true, allowTemplateLiterals: true } ],
-    'require-jsdoc': [ 'error' ],
     'semi': [ 'error' ],
     'semi-spacing': [ 'error' ],
     'space-before-blocks': [ 'error' ],
